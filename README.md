@@ -1,6 +1,5 @@
 ## 🙌 소득 예측 AI 해커톤 테스트용 코드
 
-![title](https://dacon.s3.ap-northeast-2.amazonaws.com/competition/236229/card_cpt.jpg?20220808)   
 
 안녕하세요, 해당 코드는 데이콘에서 운영하는 소득 예측 AI 해커톤을 소개하는 코드입니다.
 
